@@ -54,4 +54,5 @@ Loop termination is strictly controlled by tool usage (not prompt logic).
 
 ### Step 4: Verdict (Output)
 
-Final report is written as:
+Final report will be written as:
+historical_reports/<topic>_historical_court.txt
